@@ -1,0 +1,10 @@
+[
+    {"text":"play mariokart","auther":"sameer","points": 50},
+    {"text":"buy some bread","auther":"tariq","points": 150},
+    {"text":"how are you","auther":"ali","points": 250},
+    {"text":"I am fine","auther":"khan","points": 350},
+    {"text":"what about you","auther":"afridi","points": 450},
+    {"text":"let play","auther":"shaun","points": 550},
+    {"text":"play cricket","auther":"Mario","points": 650},
+    {"text":"or play football","auther":"Luigi","points": 750}
+]
